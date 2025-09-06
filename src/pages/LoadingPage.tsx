@@ -34,7 +34,7 @@ const LoadingPage = () => {
           {/* Logo with simple fade animation */}
           <div className="mb-8">
             <img 
-              src="/logo_square.png" 
+              src="/logo_square.." 
               alt="BIOCOM Logo" 
               className="w-24 h-24 mx-auto"
               style={{

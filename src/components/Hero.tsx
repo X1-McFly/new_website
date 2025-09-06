@@ -105,7 +105,7 @@ const Hero = () => {
               className="section-title text-3xl sm:text-4xl lg:text-5xl xl:text-6xl leading-tight opacity-0 animate-fade-in text-white" 
               style={{ animationDelay: "0.3s" }}
             >
-              Atlas Zero:<br className="hidden sm:inline" />Immersive Reality
+              Atlas Zero:<br className="hidden sm:inline" /> Immersive Reality
             </h1>
             
             <p 
